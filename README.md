@@ -1,4 +1,4 @@
-# Lasha-Abramishvili
+# Balldontlie
 
 This Python script utilizes the "balldontlie" API to fetch basketball player data, which is then stored in a SQLite database.
 
